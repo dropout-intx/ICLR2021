@@ -1,2 +1,2 @@
-# DropoutKDD
-Code to reproduce figures in KDD 2020 submission.
+# NeurIPS 2020
+Code to reproduce figures in NeurIPS 2020 submission.
